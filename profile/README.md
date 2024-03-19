@@ -5,7 +5,7 @@ Lombardi & Streicher Package Manager
 - **lspack** is a package manager like any other; just git-based.
 
 ## How to install **lspack**?
-- **lspack** is currently only available for [linux](https://github.com/lspack/lspack).
+- **lspack** (legacy version) is currently only available for [linux](https://github.com/lspack/lspack-legacy).
 - Follow the instructions there.
 
 ## How to make **lspack** packages?
